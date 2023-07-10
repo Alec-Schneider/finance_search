@@ -1,4 +1,4 @@
 langchain
 openai
 streamlit
-google-serp-api
+google-search-results
