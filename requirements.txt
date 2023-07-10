@@ -1,0 +1,5 @@
+langchain
+openai
+streamlit
+os
+yaml
